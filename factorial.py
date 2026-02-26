@@ -15,5 +15,5 @@ def factorial(n):
     return result
 
 if __name__ == "__main__":
-    num = int(input("Enter a number: "))
+    num = int(input("Enter any number: "))
     print(f"Factorial of {num} is {factorial(num)}")
